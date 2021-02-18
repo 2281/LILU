@@ -7,4 +7,4 @@ r = img.convert('L').point(fn, mode='1')
 r.show()
 
 # FFMPEG OS
-#ffmpeg -i rtsp://admin:admin1337@172.16.13.85:554/live/sub -f image2 -r 1 /mnt/LocalStorage/upload/img%01d.jpg
+#ffmpeg -i rtsp://admin:admin@172.16.13.85:554/live/sub -f image2 -r 1 /mnt/LocalStorage/upload/img%01d.jpg

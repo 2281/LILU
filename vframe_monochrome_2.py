@@ -24,4 +24,4 @@ print(gray_arr)
 #gray_arr = gray_arr[16, 16] # 4-vector, just like abovei
 
 # FFMPEG OS
-#ffmpeg -i rtsp://admin:admin1337@172.16.13.85:554/live/sub -f image2 -r 1 /mnt/LocalStorage/upload/img%01d.jpg
+#ffmpeg -i rtsp://admin:admin@172.16.13.85:554/live/sub -f image2 -r 1 /mnt/LocalStorage/upload/img%01d.jpg
